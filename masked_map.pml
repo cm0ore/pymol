@@ -1,6 +1,6 @@
 
-#I want to select the electron density around waters that are close to protein residues and vice versa
-#first open the model, map, and masked map from cctbx
+#Select the electron density around waters that are close to protein residues and vice versa
+#First open the model, map, and masked map from cctbx
 load ~/Desktop/model.pdb, model
 load ~/Desktop/map.mrc, map
 load ~/Desktop/masked_map.mrc, masked_map
